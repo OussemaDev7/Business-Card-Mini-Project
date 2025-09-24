@@ -68,7 +68,7 @@ fun Card(
         ) {
 
             Image(
-                painter = painterResource(id = R.drawable.ana),
+                painter = painterResource(id = R.drawable.photo),
                 contentDescription = "Profile Picture",
                 contentScale = ContentScale.Crop,
                 modifier = Modifier
